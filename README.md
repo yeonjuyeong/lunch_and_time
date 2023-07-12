@@ -3,7 +3,7 @@
 ![image](https://github.com/yeonjuyeong/lunch_and_time/assets/123055714/2c6d3b70-6c0e-4305-8867-da50eabf268a)
 
 
-
+## 점심메뉴 출력
 ```html
 	document.write("<h1>오늘의 추천 점심메뉴는?</h1>");
 
@@ -11,3 +11,4 @@
 	
 	document.write("<img src=\"bab/ban"+com+".png\">");
 ```
+점심메뉴를 랜덤으로 출력
